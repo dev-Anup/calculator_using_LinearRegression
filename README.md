@@ -6,16 +6,16 @@ Python
 Jupyter notebook
 sklearn
 
-##Clone the repo
+#Clone the repo
 git clone https://github.com/dev-Anup/calculator_using_LinearRegression.git
 
-##Install python
+#Install python
 https://www.python.org/downloads/
 
-##Install jupyter notebook
+#Install jupyter notebook
 pip install jupyter
 
-##Install sklearn
+#Install sklearn
 pip install sklearn
 
-##Run calculator.ipynb from jupyter notebook
+#Run calculator.ipynb from jupyter notebook
