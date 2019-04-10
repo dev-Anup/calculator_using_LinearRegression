@@ -2,8 +2,11 @@
 Simple python notebook to calculate sum using linear regression
 
 # Requirements
+
 Python
+
 Jupyter notebook
+
 sklearn
 
 # Clone the repo
